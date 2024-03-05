@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋 Como estas?</h1>
+<h3 align="left">Hola 👋 Como estas?</h3>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Soy!!</h2>
+<h4 align="left">Soy!!</h4>
 
 ###
 
