@@ -8,7 +8,7 @@ Contactame:
 Herramientas que utillizo:
 css3 express git html5 javascript nodejs postgresql react 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hola 👋 Como estas?</h1>
 
 ###
 
@@ -16,7 +16,7 @@ css3 express git html5 javascript nodejs postgresql react
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Acerca</h2>
 
 ###
 
