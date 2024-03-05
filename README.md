@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desarrollador Full Stack con enfoque al Front-End, habilidades abarcando el ciclo completo de proyectos web, desde el diseño hasta la conexión con el servidor o apis. Comprometido con la mejora continua y la implementación de las mejores prácticas de desarrollo para ofrecer soluciones web eficientes y atractivas</p>
+<p align="left">✨ Desarrollador Full Stack con enfoque al Front-End, Mis habilidades cubre el ciclo completo de proyectos web, desde el diseño hasta la conexión con el servidor o apis. Comprometido con la mejora continua y la implementación de las mejores prácticas de desarrollo para ofrecer soluciones web eficientes, amigables y atractivas para el usuario final</p>
 
 ###
 
